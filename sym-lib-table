@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name talon)(type Legacy)(uri ${KIPRJMOD}/talon.lib)(options "")(descr ""))
+)
